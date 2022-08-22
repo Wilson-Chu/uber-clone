@@ -5,4 +5,4 @@ A clone of the ride sharing and food ordering app Uber. Built with React Native,
 ## To Do:
 
 Project put on hold TBD
-- having dependency issues with React and Expo CLI, will have to update this project in the future...
+- having dependency issues with React, Expo CLI, and Linux environment; will update this project in the future once resolved
